@@ -1,0 +1,8 @@
+commands:
+  scoreboardmaster:
+    description: Main plugin command
+  sm:
+    description: Main plugin command
+main: it.nullyoung.scoreboardmaster.ScoreboardMaster
+name: ScoreboardMaster
+version: 1.0.0
